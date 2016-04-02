@@ -4,7 +4,7 @@ contains MIPS assembly programs
 # mergeSort.s
 * assembly language program to find sort aray using mergesort sorting algorithm
 
-# chico-Q3.s
+## chico-Q3.s
 * assembly language program to find sum of first 10 numbers
 
 # minMax.s
