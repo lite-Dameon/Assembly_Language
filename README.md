@@ -11,8 +11,11 @@ contains MIPS assembly programs
 * assembly language program to find minimum and maximum of numbers in a array
 
 # revString-Q5.s
-* assembly language program to find reverse the input string
+* assembly language program to reverse the input string
 
 # sumOfNNums-Q2.s
 * assembly language program to find sum of first n natural numbers
+
+# transfer-Q4.s
+* assembly language program to transfer number in the array
 
